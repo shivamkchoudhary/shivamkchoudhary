@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shivam Choudhary</h1>
-<h3 align="center">I’m very font of you because you are just my type.</h3>
+<h3 align="center">Find what you love and let it kill you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkchoudhary" /> </p>
 
